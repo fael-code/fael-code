@@ -1,3 +1,4 @@
+
 Olá! Meu nome é Rafael! Seja bem-vindo ao meu perfil do GitHub!😃
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ferreira-ribeiro-931720314/)
@@ -14,5 +15,5 @@ Tecnologias que uso atualmente:
         <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <div><br/>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael-code)](https://github.com/fael-code/github-readme-stats)
-    Sou estudante de Sistemas de Informação pela Universidade Federal de Viçosa - Campus Rio Paranaíba! Amo praticar esportes, jogar vídeo-games e estudar! 
-    
+
+Estudante de Sistemas de Informação pela Universidade Federal de Viçosa - Campus Rio Paranaíba! Amo praticar esportes, jogar vídeo-games e estudar!
