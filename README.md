@@ -13,5 +13,6 @@ Tecnologias que uso atualmente:
         <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
         <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <div><br/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fael-code)](https://github.com/fael-code/github-readme-stats)
     Sou estudante de Sistemas de Informação pela Universidade Federal de Viçosa - Campus Rio Paranaíba! Amo praticar esportes, jogar vídeo-games e estudar! 
     
